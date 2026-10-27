@@ -1,4 +1,4 @@
-# 🛵 Glovo Calculator
+# Glovo Calculator
 
 Script Python per calcolare le entrate nette come rider Glovo, tenendo conto della **ritenuta d'acconto del 20%**, delle **mance** e dei **prelievi in contanti** (funziona solo per chi è in prestazione occasionale).
 
@@ -8,7 +8,7 @@ Script Python per calcolare le entrate nette come rider Glovo, tenendo conto del
 
 > **Non vuoi installare Python?** Scarica direttamente l'eseguibile per Windows:
 >
-> 👉 [**Download .exe** (Windows)](https://github.com/samuelefrasca/Calcolatore-entrate-glovo/releases/latest)
+> [**Download .exe** (Windows)](https://github.com/samuelefrasca/Calcolatore-entrate-glovo/releases/latest)
 
 ---
 
@@ -30,7 +30,7 @@ Lo script calcolerà automaticamente:
 
 ---
 
-## 🐍 Eseguire da codice sorgente
+## Eseguire da codice sorgente
 
 ```bash
 git clone https://github.com/samuelefrasca/Calcolatore-entrate-glovo.git
@@ -40,7 +40,7 @@ python calcolatore_entrate_glovo.py
 
 ---
 
-## 📦 Creare l'exe (per sviluppatori)
+## Creare l'exe (per sviluppatori)
 
 ```bash
 pip install pyinstaller
